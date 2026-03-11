@@ -16,17 +16,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Pacman Contribution Graph
+      - name: Generate Pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Prewal137
-          theme: github-dark
-          output_dir: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push generated files to output branch
+      - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
