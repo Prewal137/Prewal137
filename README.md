@@ -1,5 +1,8 @@
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Prewal137&label=visitors&color=0e75b6&style=flat"/>
+</p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20👋%20I'm%20Prewal%20Fernandes;AI%20%26%20Machine%20Learning%20Developer;Data%20Science%20%26%20Analytics%20Enthusiast;Full%20Stack%20Developer;Computer%20Vision%20Enthusiast;Building%20Intelligent%20Systems&center=true&width=750&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20👋%20I'm%20Prewal%20Fredlin%20Fernandes;AI%20%26%20Machine%20Learning%20Developer;Data%20Science%20%26%20Analytics%20Enthusiast;Full%20Stack%20Developer;Computer%20Vision%20Enthusiast;Building%20Intelligent%20Systems&center=true&width=750&height=50">
 </p>
 
 <!--
