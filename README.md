@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Prewal+Fredlin+Fernandes;AI+%26+Machine+Learning+Developer;Full+Stack+Developer;Computer+Vision+Enthusiast;Data+Science+%26+Analytics+Enthusiast;Computer+Vision+Enthusiast)](https://git.io/typing-svg">
+</p>
 
 <!--
 **Prewal137/Prewal137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
