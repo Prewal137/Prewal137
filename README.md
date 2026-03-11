@@ -75,4 +75,28 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 
 </p>
 
+---
+
+## 🧑‍💻 Repositories 🧑‍💻
+
+<p align="center">
+
+<a href="https://github.com/sahanamadival/Udaan">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahanamadival&repo=Udaan&theme=github_dark_dimmed&border_color=58a6ff"/>
+</a>
+
+<a href="https://github.com/Prewal137/ATC">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prewal137&repo=ATC&theme=github_dark_dimmed&border_color=58a6ff"/>
+</a>
+
+
+<a href="https://github.com/vcodingithard/DBMS_PROJECT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vcodingithard&repo=DBMS_PROJECT&theme=github_dark_dimmed&border_color=58a6ff"/>
+</a>
+
+<a href="https://github.com/Prewal137/Eco_Finds">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prewal137&repo=Eco_Finds&theme=github_dark_dimmed&border_color=58a6ff"/>
+</a>
+
+</p>
 
