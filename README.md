@@ -6,23 +6,21 @@
 <img src="https://readme-typing-svg.herokuapp.com/?size=30&center=true&vCenter=true&width=900&height=60&lines=Hi%20👋%20I'm%20Prewal%20Fredlin%20Fernandes;AI%20%26%20Machine%20Learning%20Developer;Data%20Science%20%26%20Analytics%20Enthusiast;Full%20Stack%20Developer;Computer%20Vision%20Enthusiast;Building%20Intelligent%20Systems">
 </p>
 
-<hr style="height:1px;border:none;background-color:#30363d;">
+<hr style="height:0.5px;border:none;background-color:#30363d;">
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prewal-fernandes-550244293">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+<img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Prewal137">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+<img height="32" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:prewalfernandes.gorigudda@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+<img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
 </p>
-
-
 
 Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning** at **Sahyadri College of Engineering & Management**.
 
@@ -42,8 +40,11 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 
 💬 Ask me about **Machine Learning, Data Science, Computer Vision, AI systems, or Web Development**
 
-📫 Reach me at: **prewalfernandes.gorigudda@gmail.com**
+📫 Reach me at: prewalfernandes.gorigudda@gmail.com
 
+---
 
-
-
+## 🔥 Languages & Frameworks & Tools & Abilities 🔥
+<p align="center">
+<img src="https://skillicons.dev/icons?i=anaconda,arduino,blender,c,cpp,css,discord,django,docker,expressjs,fastapi,figma,flask,gcp,html,java,javascript,kali,markdown,mongodb,mysql,nodejs,opencv,pycharm,python,pytorch,r,react,scikitlearn,supabase,tensorflow,threejs,typescript,vercel,vite,vscode&theme=dark&perline=9" />
+</p>
