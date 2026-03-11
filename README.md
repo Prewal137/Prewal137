@@ -3,40 +3,47 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20👋%20I'm%20Prewal%20Fredlin%20Fernandes;AI%20%26%20Machine%20Learning%20Developer;Data%20Science%20%26%20Analytics%20Enthusiast;Full%20Stack%20Developer;Computer%20Vision%20Enthusiast;Building%20Intelligent%20Systems&center=true&width=750&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?size=30&center=true&vCenter=true&width=900&height=60&lines=Hi%20👋%20I'm%20Prewal%20Fredlin%20Fernandes;AI%20%26%20Machine%20Learning%20Developer;Data%20Science%20%26%20Analytics%20Enthusiast;Full%20Stack%20Developer;Computer%20Vision%20Enthusiast;Building%20Intelligent%20Systems">
 </p>
 
 <hr style="height:1px;border:none;background-color:#30363d;">
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/prewal-fernandes-550244293">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;
-
 <a href="https://github.com/Prewal137">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;
-
 <a href="mailto:prewalfernandes.gorigudda@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
-
 </p>
 
-<!--
-**Prewal137/Prewal137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning** at **Sahyadri College of Engineering & Management**.
+
+💡 My learning has largely been driven by **hands-on projects and practical exploration**, working across **web development, machine learning, artificial intelligence, and data analytics**.
+
+🔍 I enjoy building **data-driven applications**, including:
+
+- Developing **web-based solutions**
+- Analyzing **structured and time-series data**
+- Experimenting with **ML and AI techniques to extract insights**
+
+🧠 Through project-based work, I’ve developed a strong interest in **structured problem solving, analytical thinking, and building intelligent software systems**.
+
+🌱 As a student, I am continuously **strengthening my technical foundations** while exploring new tools, technologies, and domains.
+
+🤝 I’m always interested in **internships, collaborative projects, and opportunities** that help me gain real-world experience and grow as a developer.
+
+💬 Ask me about **Machine Learning, Data Science, Computer Vision, AI systems, or Web Development**
+
+📫 Reach me at: **prewalfernandes.gorigudda@gmail.com**
+
+
+
+
