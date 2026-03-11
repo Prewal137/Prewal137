@@ -104,9 +104,6 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 
 ## Contribution Graph
 
-
-## 🟡 Contribution Graph
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prewal137/Prewal137/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prewal137/Prewal137/output/pacman-contribution-graph.svg">
