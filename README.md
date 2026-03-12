@@ -53,8 +53,6 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 </p>
 
 ---
----
-
 ## ⚡ Stats ⚡
 
 <p align="center">
@@ -67,7 +65,7 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prewal137&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=15&cache_seconds=1800" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prewal137&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=15" height="180&cache_seconds=1800"/>
 
 </p>
 
@@ -76,7 +74,6 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prewal137&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true"/>
 
 </p>
-
 ---
 
 ## 🧑‍💻 Repositories 🧑‍💻
