@@ -108,10 +108,5 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prewal137/Prewal137/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Prewal137/Prewal137/output/pacman-contribution-graph.svg">
 </picture>
----
-## 📊 Activity Overview
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prewal137&theme=github_dark"/>
-</p>
 
