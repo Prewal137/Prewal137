@@ -110,8 +110,4 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 </picture>
 ---
 
-## 🧊 3D Contribution Graph
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prewal137&theme=github_dark"/>
-</p>
