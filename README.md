@@ -82,7 +82,7 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 <p align="center">
 
 <a href="https://github.com/sahanamadival/Udaan">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahanamadival&repo=Udaan&theme=github_dark_dimmed&border_color=58a6ff"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahanamadival&repo=Udaan&theme=github_dark_dimmed&border_color=58a6ff&v=2"/>
 </a>
 
 <a href="https://github.com/Prewal137/ATC">
