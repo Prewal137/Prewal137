@@ -58,7 +58,7 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prewal137&theme=github-dark-blue&hide_border=true&border_radius=15&background=0d1117&cache_seconds=1800" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prewal137&theme=github-dark-blue&hide_border=true&border_radius=15&background=0d1117&cache_seconds=1800" height="180&v=2"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Prewal137&show_icons=true&theme=github_dark_dimmed&hide_border=true&border_radius=15&cache_seconds=1800" height="180"/>
 
@@ -82,7 +82,7 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 <p align="center">
 
 <a href="https://github.com/sahanamadival/Udaan">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahanamadival&repo=Udaan&theme=github_dark_dimmed&border_color=58a6ff&v=2"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahanamadival&repo=Udaan&theme=github_dark_dimmed&border_color=58a6ff"/>
 </a>
 
 <a href="https://github.com/Prewal137/ATC">
