@@ -58,21 +58,21 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Prewal137&theme=github-dark-blue&hide_border=true&border_radius=15&background=0d1117&cache_seconds=1800&v=7" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=Prewal137&theme=github-dark-blue&hide_border=true&border_radius=15&background=0d1117&cache_seconds=1800&v=9" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prewal137&show_icons=true&theme=github_dark_dimmed&hide_border=true&border_radius=15&cache_seconds=1800&v=7" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prewal137&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=15&cache_seconds=1800&v=7" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Prewal137&show_icons=true&theme=github_dark_dimmed&hide_border=true&border_radius=15&cache_seconds=1800&v=9" height="180"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prewal137&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&v=7"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prewal137&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=15&cache_seconds=1800&v=9" height="180"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prewal137&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&v=9"/>
 
 </p>
 
