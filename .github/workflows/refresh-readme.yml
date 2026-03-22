@@ -2,7 +2,7 @@ name: Refresh README
 
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 */1 * * *"   
   workflow_dispatch:
 
 permissions:
@@ -16,14 +16,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README timestamp
+      - name: Update README timestamp (clean replace)
         run: |
-          echo "<!-- updated $(date) -->" >> README.md
+          if grep -q "<!-- updated" README.md; then
+            sed -i "s/<!-- updated.*/<!-- updated $(date) -->/" README.md
+          else
+            echo "<!-- updated $(date) -->" >> README.md
+          fi
 
       - name: Commit changes
         run: |
           git config --global user.name "Prewal137"
-          git config --global user.email "prewalfernandes.gorigudda@gmail.com "
+          git config --global user.email "prewalfernandes.gorigudda@gmail.com"
           git add README.md
           git commit -m "Auto refresh README" || exit 0
           git push
