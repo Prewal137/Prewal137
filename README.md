@@ -74,7 +74,10 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prewal137&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true"/>
 </p>
+
 ---
+
+
 
 ## 🧑‍💻 Repositories 🧑‍💻
 
