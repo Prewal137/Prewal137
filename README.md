@@ -58,10 +58,16 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Prewal137&theme=github-dark-blue&hide_border=true&border_radius=15&background=0d1117&include_all_commits=true&v=1" height="180"/>
-
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prewal137&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&include_all_commits=true" height="180"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prewal137&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" height="180"/>
+
+</p>
+
 
 
 
