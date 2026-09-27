@@ -87,8 +87,8 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 </a>
 
 
-<a href="https://github.com/vcodingithard/DBMS_PROJECT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vcodingithard&repo=DBMS_PROJECT&theme=github_dark_dimmed&border_color=58a6ff"/>
+<a href="https://github.com/vcodingithard/MINI_PROJECT">
+  <img src="https://github-readme-stats-two-chi-40.vercel.app/api/pin/?username=vcodingithard&repo=MINI_PROJECT&theme=github_dark_dimmed&border_color=58a6ff" />
 </a>
 
 <a href="https://github.com/Prewal137/Eco_Finds">
