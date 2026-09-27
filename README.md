@@ -91,8 +91,8 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
   <img src="https://github-readme-stats-two-chi-40.vercel.app/api/pin/?username=Prewal137&repo=MNE_EEG&theme=github_dark_dimmed&border_color=58a6ff" />
 </a>
 
-<a href="https://github.com/Prewal137/Eco_Finds">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prewal137&repo=Eco_Finds&theme=github_dark_dimmed&border_color=58a6ff"/>
+<a href="https://github.com/Prewal137/parcelpilot_ai_agents">
+  <img src="https://github-readme-stats-two-chi-40.vercel.app/api/pin/?username=Prewal137&repo=parcelpilot_ai_agents&theme=github_dark_dimmed&border_color=58a6ff" />
 </a>
 
 </p>
