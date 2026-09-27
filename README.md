@@ -82,8 +82,8 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 
 <img src="https://github-readme-stats-two-chi-40.vercel.app/api/pin/?username=sahanamadival&repo=Udaan&theme=github_dark_dimmed&border_color=58a6ff" />
 
-<a href="https://github.com/Prewal137/ATC">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prewal137&repo=ATC&theme=github_dark_dimmed&border_color=58a6ff"/>
+<a href="https://github.com/Prewal137/GlobalRiskInterConnectionEngine">
+  <img src="https://github-readme-stats-two-chi-40.vercel.app/api/pin/?username=Prewal137&repo=GlobalRiskInterConnectionEngine&theme=github_dark_dimmed&border_color=58a6ff" />
 </a>
 
 
