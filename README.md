@@ -64,7 +64,7 @@ Hi, I'm **Prewal Fredlin Fernandes**, a Computer Science undergraduate specializ
 
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prewal137&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Prewal137&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" height="180"/>
 
 </p>
 
